@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save the Hostage (Game ) with classes and constructs", "Save the Hostage (Game ) with classes and constructs\Save the Hostage (Game ) with classes and constructs.csproj", "{C233D129-12F0-4E49-91F6-3E9E6013745B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C233D129-12F0-4E49-91F6-3E9E6013745B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C233D129-12F0-4E49-91F6-3E9E6013745B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C233D129-12F0-4E49-91F6-3E9E6013745B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C233D129-12F0-4E49-91F6-3E9E6013745B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C835E89-A661-4B2C-9E49-FA4D7C1DD817}
+	EndGlobalSection
+EndGlobal
